@@ -1,0 +1,6 @@
+EmpFirstName,EmpLastName,Email,SSN,Zipcode,PhoneNo,OtherPhoneNo,LinkedInID,FacebookID,InstagramID,SkypeID,DOB,Gender,Roles,Designation,EmpAddress,LoginID,Password
+Donald,Oconnell,DonaldOconnell@ABCnCo.com,245678123,55344,6505079838,,,,,,,Male,Employee,2,123 Cross road,Donald,12345
+Douglas,Grant,DouglasGrant@ABCnCo.com,245678124,5523,6505079844,,,,,,,Male,Employee,3,764 Walkers St,Douglas,12345
+Jennifer,Whalen,JenniferWhalen@ABCnCo.com,245678125,55876,5151235555,,,,,,,Female,Employee,1,65 St Mark ct,Jennifer,12345
+Michael,Harsten,MichaelHarsten@ABCnCo.com,245678126,55344,5121235767,,,,,,,Male,Employee,5,456 Potters court,Michael,12345
+Pat,Fay,PatFay@ABCnCo.com,245678127,55300,6031236666,,,,,,,Male,Employee,2,87 Carls lane,Pat,12345
