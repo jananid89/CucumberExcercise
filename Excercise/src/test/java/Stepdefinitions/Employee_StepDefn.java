@@ -30,7 +30,7 @@ public class Employee_StepDefn {
 	public void data_given_in_csvtext_files() throws Throwable {
 
 		System.setProperty("webdriver.chrome.driver",
-				"C:\\Users\\janan\\eclipse-workspace\\Excercises\\Drivers\\chromedriver.exe");
+				"C:\\Users\\janan\\eclipse-workspace\\Excercise\\Drivers\\chromedriver.exe");
 
 		driver = new ChromeDriver();
 		wait = new WebDriverWait(driver, Duration.ofSeconds(10));
